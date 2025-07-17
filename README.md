@@ -4,9 +4,15 @@
 
 ---
 <h3 align="center">Connect with me:</h3>
-[![Email](https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=maildotru&logoColor=%23FFFFFF)](leshyovantoha@yandex.ru)
-[![Vk](https://img.shields.io/badge/Vk-%230077FF?style=for-the-badge&logo=vk&logoColor=%23FFFFFF)](https://vk.com/834484148)
-[![GitHub](https://img.shields.io/badge/Git%20hub-%23181717?style=for-the-badge&logo=github&logoColor=%23FFFFFF)](https://github.com/tainj)
+<a href="leshyovantoha@yandex.ru.ru">
+  <img src="https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=maildotru&logoColor=%23FFFFFF" alt="Email">
+</a>
+<a href="https://vk.com/834484148">
+  <img src="https://img.shields.io/badge/Vk-%230077FF?style=for-the-badge&logo=vk&logoColor=%23FFFFFF" alt="Vk">
+</a>
+<a href="https://github.com/tainj">
+  <img src="https://img.shields.io/badge/Git%20hub-%23181717?style=for-the-badge&logo=github&logoColor=%23FFFFFF" alt="GitHub">
+</a>
 ---
 
 <h3 align="center">My technology stack 🛠️</h3>
