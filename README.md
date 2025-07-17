@@ -1,24 +1,25 @@
-<h1 align="center">Hi 👋, I'm Anton</h1>
-<h3 align="center">A novice backend developer from Russia.</h3>
+<div align="center">
+  <img src="./img/banner.png">
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tainj&label=Profile%20views&color=0e75b6&style=flat" alt="tainj" /> </p>
+---
+<h3 align="center">Connect with me:</h3>
+![Email](https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=maildotru&logoColor=%23FFFFFF&link=leshyovantoha%40yandex.ru)
+![Vk](https://img.shields.io/badge/Vk-%230077FF?style=for-the-badge&logo=vk&logoColor=%23FFFFFF&link=https%3A%2F%2Fvk.com%2F834484148)
+![Git hub](https://img.shields.io/badge/Git%20hub-%23181717?style=for-the-badge&logo=github&logoColor=%23FFFFFF&link=https%3A%2F%2Fgithub.com%2Ftainj)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tainj" alt="tainj" /></a> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-### **I code with 🛠️**
+<h3 align="center">My technology stack 🛠️</h3>
 
 ![Golang](https://img.shields.io/badge/Golang-%2300ADD8?style=for-the-badge&logo=go&logoColor=%23FFFFFF&logoSize=10)
 ![Python](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=%23FFFFFF)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=%23FFFFFF)
 ![Docker](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=%23FFFFFF)
+![Git hub](https://img.shields.io/badge/Git%20hub-%23000000?style=for-the-badge&logo=github&logoColor=%23FFFFFF)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23FFFFFF)
 
-
-
-
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tainj&show_icons=true&locale=en&layout=compact" alt="tainj" /></p>
 
