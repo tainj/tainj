@@ -3,6 +3,19 @@
 </div>
 
 ---
+
+I'm a backend developer transitioning from Python to Go (Golang) after completing a year-long course and Go specialization at Yandex.Lyceum. I love Go’s slices, strong typing, and unique project structuring without traditional classes—it feels fresh and efficient.
+
+Programming excites me because I get to build things hands-on. My experience includes industrial programming projects like a Pygame game, PyQt apps, and a website (soon to be rebuilt with Flask).
+
+I’m now deepening my Go skills to become a strong developer and finally polishing my GitHub profile to shift from learning to earning.
+
+Fun fact: I debug with a rubber duck 🦆—it helps me find creative solutions when human listeners are scarce.
+
+Open to ideas, questions, or collabs! Let’s create something cool together. 😊
+
+---
+
 <h3 align="center">Connect with me:</h3>
 <a href="leshyovantoha@yandex.ru.ru">
   <img src="https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=maildotru&logoColor=%23FFFFFF" alt="Email">
@@ -13,6 +26,7 @@
 <a href="https://github.com/tainj">
   <img src="https://img.shields.io/badge/Git%20hub-%23181717?style=for-the-badge&logo=github&logoColor=%23FFFFFF" alt="GitHub">
 </a>
+
 ---
 
 <h3 align="center">My technology stack 🛠️</h3>
