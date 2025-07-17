@@ -17,10 +17,10 @@ Open to ideas, questions, or collabs! Letâ€™s create something cool together. ðŸ
 ---
 
 <h3 align="center">Connect with me:</h3>
-<a href="leshyovantoha@yandex.ru.ru">
+<a href="leshyovantoha@yandex.ru">
   <img src="https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=maildotru&logoColor=%23FFFFFF" alt="Email">
 </a>
-<a href="https://vk.com/834484148">
+<a href="https://vk.com/id834484148">
   <img src="https://img.shields.io/badge/Vk-%230077FF?style=for-the-badge&logo=vk&logoColor=%23FFFFFF" alt="Vk">
 </a>
 <a href="https://github.com/tainj">
