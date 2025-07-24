@@ -35,8 +35,10 @@ Open to ideas, questions, or collabs! Letâ€™s create something cool together. ðŸ
 ![Python](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=%23FFFFFF)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=%23FFFFFF)
 ![Docker](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=%23FFFFFF)
-![Git hub](https://img.shields.io/badge/Git%20hub-%23000000?style=for-the-badge&logo=github&logoColor=%23FFFFFF)
+![Git hub](https://img.shields.io/badge/Git%20hub-%23181717?style=for-the-badge&logo=github&logoColor=%23FFFFFF)
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=%23FFFFFF)
+![Kafka](https://img.shields.io/badge/Kafka-%23231F20?style=for-the-badge&logo=apachekafka&logoColor=%23FFFFFF)
+
 
 ---
 
