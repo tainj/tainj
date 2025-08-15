@@ -6,11 +6,18 @@
 
 <h3 align="center">👨‍💻 Bio</h3>
 
-> 🚀 **Backend Engineer** | Passionate about **Go**, **distributed systems**, and building scalable backends  
-> 🔧 I design clean architectures — from Kafka streams to Dockerized microservices  
-> 🎓 Yandex.Lyceum Go graduate, now turning knowledge into real systems  
-> 🦆 Debugging with a rubber duck — because the best solutions come out loud  
-> 💡 Always learning, building, and breaking things to make them better
+🚀 **Backend Engineer**  
+Go • Kafka • Distributed Systems
+
+🔧 **Building scalable systems**  
+at the intersection of code and infrastructure
+
+🎯 **From Yandex.Lyceum to real-world Go projects**
+
+🦆 **Debugging method**  
+Rubber duck — because clarity comes from speaking it out
+
+---
 
 <h3 align="center">🌐 Reach Me</h3>
 
