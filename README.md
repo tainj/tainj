@@ -46,9 +46,10 @@ Rubber duck — because clarity comes from speaking it out
 
 <h3 align="center">🎯 Projects</h3>
 
-| PROJECT             | DESCRIPTION                                                                                                   | TECH STACK |
-|:--------------------|---------------------------------------------------------------------------------------------------------------| :--: |
+| PROJECT                                                     | DESCRIPTION                                                                                                   |                   TECH STACK                   |
+|:------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|:----------------------------------------------:|
 | [calcflow-engine](https://github.com/tainj/calcflow-engine) | A distributed computation system with microservices architecture for scalable and fault-tolerant processing. | `Go`, `Kafka`, `Redis`, `PostgreSQL`, `Docker` |
+| [edgebot](https://github.com/tainj/calcflow-engine)                                                 |A Go-based Telegram bot that applies the Prewitt edge detection algorithm to images. Offers interactive filter selection and works directly in Telegram.|            `Go`, `gopkg.in/telebot.v4`, `image`             |
 
 <blockquote>
 💡 More projects coming soon — stay tuned! 
