@@ -46,10 +46,11 @@ Rubber duck — because clarity comes from speaking it out
 
 <h3 align="center">🎯 Projects</h3>
 
-| PROJECT                                                     | DESCRIPTION                                                                                                   |                   TECH STACK                   |
-|:------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|:----------------------------------------------:|
-| [calcflow-engine](https://github.com/tainj/calcflow-engine) | A distributed computation system with microservices architecture for scalable and fault-tolerant processing. | `Go`, `Kafka`, `Redis`, `PostgreSQL`, `Docker` |
-| [edgebot](https://github.com/tainj/edgebot)                                                 |A Go-based Telegram bot that applies the Prewitt edge detection algorithm to images. Offers interactive filter selection and works directly in Telegram.|            `Go`, `gopkg.in/telebot.v4`, `image`             |
+| PROJECT                                                       | DESCRIPTION                                                                                                                                                                                        |                            TECH STACK                            |
+|:--------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------:|
+| [calcflow-engine](https://github.com/tainj/calcflow-engine)   | A distributed computation system with microservices architecture for scalable and fault-tolerant processing.                                                                                       |          `Go`, `Kafka`, `Redis`, `PostgreSQL`, `Docker`          |
+| [edgebot](https://github.com/tainj/edgebot)                   | A Go-based Telegram bot that applies the Prewitt edge detection algorithm to images. Offers interactive filter selection and works directly in Telegram.                                           |                  `Go`, `gopkg.in/telebot.v4`, `image`            |
+| [salespulse](https://github.com/tainj/salespulse)             | A Flask-powered sales analytics dashboard for real-time insights into customer orders, product performance, and revenue trends — built as a freelance project and shared for portfolio purposes.   |  `Python`, `Flask`, `SQLite`, `SQLAlchemy`, `WTForms`, `Plotly`  |
 
 <blockquote>
 💡 More projects coming soon — stay tuned! 
