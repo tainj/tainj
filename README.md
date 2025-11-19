@@ -6,27 +6,27 @@
 
 <h3 align="center">👨‍💻 Bio</h3>
 
-🚀 **Backend Engineer**  
-Go • Kafka • Distributed Systems
 
-🔧 **Building scalable systems**  
-at the intersection of code and infrastructure
+🚀 **Backend Developer (1st Year, IVT)**  
+Go • Python • Kafka • Docker • Postgresql
 
-🎯 **From Yandex.Lyceum to real-world Go projects**
+🔧 Building real shit, not tutorials.  
+🎯 Solving problems nobody asked for.  
+🦆 Debugging with rubber duck — because I don’t need your validation.  
+🙏 Yandex.Lyceum? Yeah. You taught me how to code.  
+Now go away. I’m busy.  
+— And I’m not forgetting you.
 
-🦆 **Debugging method**  
-Rubber duck — because clarity comes from speaking it out
 
 ---
 
 <h3 align="center">🌐 Reach Me</h3>
 
-<a href="leshyovantoha@yandex.ru">
-  <img src="https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=maildotru&logoColor=%23FFFFFF" alt="Email">
+<a href="https://t.me/sadlarfox">
+  <img src="https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=%23FFFFFF&logoSize=10" alt="Telegram">
 </a>
-<a href="https://vk.com/id834484148">
-  <img src="https://img.shields.io/badge/VK-%230077FF?style=for-the-badge&logo=vk&logoColor=%23FFFFFF" alt="VK">
-</a>
+
+
 <a href="https://github.com/tainj">
   <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=%23FFFFFF" alt="GitHub">
 </a>
