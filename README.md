@@ -1,5 +1,6 @@
-![My Profile](img/banner.svg)
-
+<p align="center">
+  <img src="img/banner.svg" width="600">
+</p>
 
 
 <h3 align="center">👨‍💻 Bio</h3>

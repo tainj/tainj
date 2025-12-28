@@ -1,7 +1,7 @@
 <svg
-  width="450"
+  width="600"
   height="220"
-  viewBox="0 0 450 220"
+  viewBox="0 0 600 220"
   fill="none"
   xmlns="http://www.w3.org/2000/svg"
 >
@@ -29,10 +29,10 @@
   </defs>
 
   <!-- Background -->
-  <rect width="450" height="220" fill="url(#bgGradient)" />
+  <rect width="600" height="220" fill="url(#bgGradient)" />
 
-  <!-- Main card -->
-  <rect x="20" y="40" width="410" height="140" rx="12" fill="url(#cardGradient)" />
+  <!-- Main card: отступы слева/справа по 20px → ширина = 600 - 40 = 560 -->
+  <rect x="20" y="40" width="560" height="140" rx="12" fill="url(#cardGradient)" />
 
   <!-- Text: Github -->
   <text x="47" y="75" fill="white" font-size="16" font-weight="600" font-family="Arial, sans-serif">
