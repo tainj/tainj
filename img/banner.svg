@@ -1,0 +1,59 @@
+<svg
+  width="450"
+  height="220"
+  viewBox="0 0 450 220"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <defs>
+    <!-- Градиент: зелёный слева → чёрный справа -->
+    <linearGradient id="bgGradient" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#00ffcc" />
+      <stop offset="30%" stop-color="#005533" />
+      <stop offset="100%" stop-color="#000000" />
+    </linearGradient>
+
+    <linearGradient id="cardGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f1419" />
+      <stop offset="100%" stop-color="#1a1f2e" />
+    </linearGradient>
+
+    <linearGradient id="textGrad1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00d1b2"/>
+      <stop offset="100%" stop-color="#00ffcc"/>
+    </linearGradient>
+    <linearGradient id="textGrad2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff9900"/>
+      <stop offset="100%" stop-color="#ffcc00"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="450" height="220" fill="url(#bgGradient)" />
+
+  <!-- Main card -->
+  <rect x="20" y="40" width="410" height="140" rx="12" fill="url(#cardGradient)" />
+
+  <!-- Text: Github -->
+  <text x="47" y="75" fill="white" font-size="16" font-weight="600" font-family="Arial, sans-serif">
+    Github
+  </text>
+
+  <!-- Main name -->
+  <text x="47" y="110" fill="white" font-size="28" font-weight="700" font-family="Arial, sans-serif">
+    LESHEV ANTON
+  </text>
+
+  <!-- Subtitle: BACKEND -->
+  <text x="47" y="132" fill="url(#textGrad1)" font-size="18" font-weight="700" font-family="Arial, sans-serif">
+    BACKEND
+  </text>
+
+  <!-- Subtitle: DEVELOPER -->
+  <text x="140" y="132" fill="url(#textGrad2)" font-size="18" font-weight="700" font-family="Arial, sans-serif">
+    DEVELOPER
+  </text>
+
+  <!-- Underline -->
+  <line x1="47" y1="138" x2="108" y2="138" stroke="#ff9900" stroke-width="3" stroke-linecap="round" />
+</svg>
