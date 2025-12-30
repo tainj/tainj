@@ -12,7 +12,7 @@ Go • Python • C++ • Kafka • Docker • Postgresql
 🔧 Building real shit, not tutorials.  
 🎯 Solving problems nobody asked for.  
 🦆 Debugging with rubber duck — because I don’t need your validation.  
-♟️ Playing chess. Not for wins—for the silence before collapse.
+♟️ Playing chess. Not for wins—for the silence before collapse.  
 🙏 Yandex.Lyceum? Yeah. You taught me how to code.  
 Now go away. I’m busy.  
 — And I’m not forgetting you.
