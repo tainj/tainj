@@ -65,7 +65,6 @@ Now go away. I’m busy.
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tainj&show_icons=true&locale=en&layout=compact" alt="tainj" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tainj&show_icons=true&locale=en&layout=compact&theme=transparent" alt="tainj" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tainj&show_icons=true&locale=en" alt="tainj" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent" alt="tainj" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tainj&show_icons=true&theme=transparent&layout=compact" alt="tainj" /></p>
