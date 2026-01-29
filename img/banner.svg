@@ -1,59 +1,40 @@
-<svg
-  width="600"
-  height="220"
-  viewBox="0 0 600 220"
-  fill="none"
-  xmlns="http://www.w3.org/2000/svg"
->
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <!-- Градиент: зелёный слева → чёрный справа -->
-    <linearGradient id="bgGradient" x1="0%" y1="100%" x2="0%" y2="0%">
-      <stop offset="0%" stop-color="#00ffcc" />
-      <stop offset="30%" stop-color="#005533" />
-      <stop offset="100%" stop-color="#000000" />
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e3a8a" />
+      <stop offset="100%" stop-color="#0f172a" />
     </linearGradient>
-
-    <linearGradient id="cardGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0f1419" />
-      <stop offset="100%" stop-color="#1a1f2e" />
-    </linearGradient>
-
-    <linearGradient id="textGrad1" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#00d1b2"/>
-      <stop offset="100%" stop-color="#00ffcc"/>
-    </linearGradient>
-    <linearGradient id="textGrad2" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#ff9900"/>
-      <stop offset="100%" stop-color="#ffcc00"/>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#60a5fa" />
     </linearGradient>
   </defs>
 
-  <!-- Background -->
-  <rect width="600" height="220" fill="url(#bgGradient)" />
+  <!-- Фон -->
+  <rect width="900" height="200" fill="url(#grad)" rx="12" />
 
-  <!-- Main card: отступы слева/справа по 20px → ширина = 600 - 40 = 560 -->
-  <rect x="20" y="40" width="560" height="140" rx="12" fill="url(#cardGradient)" />
+  <!-- Сетка (лёгкая) -->
+  <g stroke="#334155" stroke-width="0.5" opacity="0.6">
+    <line x1="0" y1="50" x2="900" y2="50" />
+    <line x1="0" y1="100" x2="900" y2="100" />
+    <line x1="0" y1="150" x2="900" y2="150" />
+    <line x1="150" y1="0" x2="150" y2="200" />
+    <line x1="300" y1="0" x2="300" y2="200" />
+    <line x1="450" y1="0" x2="450" y2="200" />
+    <line x1="600" y1="0" x2="600" y2="200" />
+    <line x1="750" y1="0" x2="750" y2="200" />
+  </g>
 
-  <!-- Text: Github -->
-  <text x="47" y="75" fill="white" font-size="16" font-weight="600" font-family="Arial, sans-serif">
-    Github
+  <!-- Текст -->
+  <text x="60" y="85" fill="white" font-family="monospace" font-size="24" font-weight="600">
+    Anton Leshev
   </text>
 
-  <!-- Main name -->
-  <text x="47" y="110" fill="white" font-size="28" font-weight="700" font-family="Arial, sans-serif">
-    LESHEV ANTON
+  <text x="60" y="120" fill="url(#textGrad)" font-family="monospace" font-size="20" font-weight="500">
+    Backend Developer • Student @ KNRTU-KAI
   </text>
 
-  <!-- Subtitle: BACKEND -->
-  <text x="47" y="132" fill="url(#textGrad1)" font-size="18" font-weight="700" font-family="Arial, sans-serif">
-    BACKEND
+  <text x="60" y="150" fill="#94a3b8" font-family="monospace" font-size="16">
+    Building systems • Learning daily • Focused on progress
   </text>
-
-  <!-- Subtitle: DEVELOPER -->
-  <text x="140" y="132" fill="url(#textGrad2)" font-size="18" font-weight="700" font-family="Arial, sans-serif">
-    DEVELOPER
-  </text>
-
-  <!-- Underline -->
-  <line x1="47" y1="138" x2="108" y2="138" stroke="#ff9900" stroke-width="3" stroke-linecap="round" />
 </svg>

@@ -2,37 +2,24 @@
   <img src="img/banner.svg" width="900">
 </p>
 
+---
 
-<h3 align="center">👨‍💻 Bio</h3>
+<h3 align="center">👨‍💻 About Me</h3>
 
+🚀 **Backend Developer (1st Year, KNRTU-KAI)**  
+Go • Python • C • Docker • PostgreSQL
 
-🚀 **Backend Developer (1st Year, IVT)**  
-Go • Python • C++ • Kafka • Docker • Postgresql
-
-🔧 Building real shit, not tutorials.  
-🎯 Solving problems nobody asked for.  
-🦆 Debugging with rubber duck — because I don’t need your validation.  
-♟️ Playing chess. Not for wins—for the silence before collapse.
-🙏 Yandex.Lyceum? Yeah. You taught me how to code.  
-Now go away. I’m busy.  
-— And I’m not forgetting you.
+🔧 Building projects step by step — from fundamentals to distributed systems.  
+♟️ Chess teaches patience. So does code.  
+🌱 Open to feedback, collaboration, and learning from others.
 
 ---
 
 <h3 align="center">🌐 Reach Me</h3>
 
-<a href="https://t.me/sadlarfox">
-  <img src="https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=%23FFFFFF&logoSize=10" alt="Telegram">
-</a>
+![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=%23FFFFFF&logoSize=10)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=%23FFFFFF)
 
-
-<a href="https://github.com/tainj">
-  <img src="https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=%23FFFFFF" alt="GitHub">
-</a>
-
-<a href="https://leetcode.com/u/tanj378/">
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode">
-</a>
 
 ---
 
@@ -63,8 +50,8 @@ Now go away. I’m busy.
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">📊 Stats</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tainj&show_icons=true&locale=en&layout=compact&theme=transparent" alt="tainj" /></p>
 
+<p align="center"> <img src="https://leetcard.jacoblin.cool/tanj378?theme=dark&font=monospace" width="500" /> </p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tainj&show_icons=true&theme=transparent&layout=compact" alt="tainj" /></p>
