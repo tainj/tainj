@@ -52,7 +52,7 @@ Go • Python • C • Docker • PostgreSQL
 
 <h3 align="center">📊 Stats</h3>
 
-
-<p align="center"> <img src="https://leetcard.jacoblin.cool/tanj378?theme=dark&font=monospace" width="500" /> </p>
-
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=tainj&show_icons=true&theme=transparent&layout=compact" alt="tainj"/> </p>
+<p align="center">
+  <img width="48%" src="https://leetcard.jacoblin.cool/tanj378?theme=dark&font=monospace&ext=leetcode&radius=10" alt="LeetCode Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tainj&show_icons=true&theme=dark&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
+</p>
