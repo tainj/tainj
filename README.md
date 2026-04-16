@@ -54,4 +54,5 @@ Go • Python • C • Docker • PostgreSQL
 
 
 <p align="center"> <img src="https://leetcard.jacoblin.cool/tanj378?theme=dark&font=monospace" width="500" /> </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tainj&show_icons=true&theme=transparent&layout=compact" alt="tainj" /></p>
+
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=tainj&show_icons=true&theme=transparent&layout=compact" alt="tainj"/> </p>
